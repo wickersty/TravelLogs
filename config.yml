@@ -1,0 +1,4 @@
+settings:
+  worlds-enabled: world,world2
+  max-entries: 0
+  show-distances: true

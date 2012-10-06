@@ -1,0 +1,26 @@
+name: TravelLogs
+version: 1.0
+description: >
+             Remember places you've visited in your Travel Log,
+             and look them up later, using your compass to find
+             them again.
+author: wickersty
+main: me.wickersty.travellogs.TravelLogs
+author: wickersty
+depends: [Vault]
+softdepend: []
+database: false
+commands:
+  travellog:
+    description: 
+    aliases: 
+    permission: 
+    usage: /travellog help
+  tl:
+    description: 
+    aliases: 
+    permission: 
+    usage: /tl help
+permissions:
+  travellogs.use:
+    description: Use Travel Logs
